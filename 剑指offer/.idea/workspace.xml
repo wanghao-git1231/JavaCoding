@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f98a3fd-4f03-47fe-aae1-4cdd4456cc15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1anZqWrlnhr2k0un08SCBm7PMXA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="分解让复杂问题简单" />
+      <recent name="举例让抽象具体化" />
+      <recent name="面试思路" />
+      <recent name="代码的鲁棒性" />
+      <recent name="遍历" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CutLine">
+    <configuration name="CutLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="动态规划与贪婪.CutLine" />
+      <module name="Codeing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="动态规划与贪婪.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Moving" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="回溯法.Moving" />
+      <module name="Codeing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="回溯法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="回溯法.PathInMatrix" />
+      <module name="Codeing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="回溯法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotMove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="回溯法.RobotMove" />
+      <module name="Codeing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="回溯法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SlideWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="栈和队列.SlideWindow" />
+      <module name="Codeing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="栈和队列.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CutLine" />
+        <item itemvalue="Application.RobotMove" />
+        <item itemvalue="Application.Moving" />
+        <item itemvalue="Application.PathInMatrix" />
+        <item itemvalue="Application.SlideWindow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f98a3fd-4f03-47fe-aae1-4cdd4456cc15" name="Default Changelist" comment="" />
+      <created>1587373509176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587373509176</updated>
+      <workItem from="1587373510786" duration="4876000" />
+      <workItem from="1587439068237" duration="2863000" />
+      <workItem from="1587449257315" duration="9198000" />
+      <workItem from="1587519101475" duration="9739000" />
+      <workItem from="1587536439705" duration="7680000" />
+      <workItem from="1587603612152" duration="2839000" />
+      <workItem from="1587607707090" duration="3442000" />
+      <workItem from="1587622154556" duration="4159000" />
+      <workItem from="1587634945694" duration="5180000" />
+      <workItem from="1587697028262" duration="5129000" />
+      <workItem from="1587708117681" duration="10724000" />
+      <workItem from="1587774457812" duration="12447000" />
+      <workItem from="1587795522429" duration="14085000" />
+      <workItem from="1587863483989" duration="11366000" />
+      <workItem from="1587881000798" duration="13645000" />
+      <workItem from="1587947261764" duration="9690000" />
+      <workItem from="1587967664915" duration="8773000" />
+      <workItem from="1588044430753" duration="2854000" />
+      <workItem from="1588053529375" duration="6761000" />
+      <workItem from="1588065131248" duration="2051000" />
+      <workItem from="1588121797660" duration="9332000" />
+      <workItem from="1588140675562" duration="2855000" />
+      <workItem from="1588207400544" duration="12538000" />
+      <workItem from="1588227703313" duration="3135000" />
+      <workItem from="1588236292304" duration="4624000" />
+      <workItem from="1588292441904" duration="10264000" />
+      <workItem from="1588312763761" duration="13827000" />
+      <workItem from="1588381784150" duration="6451000" />
+      <workItem from="1588412335751" duration="1198000" />
+      <workItem from="1588462629817" duration="2641000" />
+      <workItem from="1588486037966" duration="3922000" />
+      <workItem from="1588555570213" duration="5137000" />
+      <workItem from="1588576937015" duration="8458000" />
+      <workItem from="1588666089961" duration="2062000" />
+      <workItem from="1588724664606" duration="12111000" />
+      <workItem from="1588821070355" duration="2368000" />
+      <workItem from="1589159660510" duration="6833000" />
+      <workItem from="1589183279428" duration="5250000" />
+      <workItem from="1589194231010" duration="9581000" />
+      <workItem from="1589247570839" duration="4358000" />
+      <workItem from="1589262657351" duration="10331000" />
+      <workItem from="1589287250667" duration="2282000" />
+      <workItem from="1589335086308" duration="5569000" />
+      <workItem from="1589350071219" duration="5907000" />
+      <workItem from="1589367284217" duration="6154000" />
+      <workItem from="1589420380998" duration="6294000" />
+      <workItem from="1589436512059" duration="4610000" />
+      <workItem from="1589458701800" duration="1066000" />
+      <workItem from="1589510471638" duration="3291000" />
+      <workItem from="1589522671116" duration="7420000" />
+      <workItem from="1589538193954" duration="5157000" />
+      <workItem from="1590129296876" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1587373539589">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587373539589" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1588124648081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588124648081" />
+    <state width="1323" height="200" key="GridCell.Tab.0.bottom" timestamp="1589543881809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589543881809" />
+    <state width="1323" height="200" key="GridCell.Tab.0.center" timestamp="1589543881809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589543881809" />
+    <state width="1323" height="200" key="GridCell.Tab.0.left" timestamp="1589543881809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589543881809" />
+    <state width="1323" height="200" key="GridCell.Tab.0.right" timestamp="1589543881809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589543881809" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1589284699347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589284699347" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1589284699347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589284699347" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1589284699346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589284699346" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1589284699347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589284699347" />
+    <state x="234" y="100" width="897" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587871527141">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="234" y="100" width="897" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1587871527141" />
+    <state x="58" y="0" key="new project wizard" timestamp="1587373528743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="58" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587373528743" />
+    <state x="384" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1588238445314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1588238445314" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1587874826924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587874826924" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589543819313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589543819313" />
+  </component>
+</project>
