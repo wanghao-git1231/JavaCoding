@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea247795-0dd3-4ec5-9e37-b28bf3ec9a88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1clVnf8cN5oOA8YG2TF19BLlblt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="9" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Easy.Case234" />
+      <recent name="Easy.Case141" />
+      <recent name="Easy.Case543" />
+      <recent name="Easy.Case101" />
+      <recent name="Easy.Case160" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FindUnsortedSubarray">
+    <configuration name="FindUnsortedSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Case581.FindUnsortedSubarray" />
+      <module name="Coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.Case581.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HasCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Case141.HasCycle" />
+      <module name="Coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.Case141.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Case234.IsPalindrome" />
+      <module name="Coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.Case234.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Case20.IsValid" />
+      <module name="Coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.Case20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Case198.Rob" />
+      <module name="Coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.Case198.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindUnsortedSubarray" />
+        <item itemvalue="Application.IsValid" />
+        <item itemvalue="Application.IsPalindrome" />
+        <item itemvalue="Application.Rob" />
+        <item itemvalue="Application.HasCycle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea247795-0dd3-4ec5-9e37-b28bf3ec9a88" name="Default Changelist" comment="" />
+      <created>1591103334181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591103334181</updated>
+      <workItem from="1591103336110" duration="235000" />
+      <workItem from="1591149036747" duration="6642000" />
+      <workItem from="1591164416256" duration="11017000" />
+      <workItem from="1591183256328" duration="7191000" />
+      <workItem from="1591234080441" duration="4959000" />
+      <workItem from="1591248531025" duration="4283000" />
+      <workItem from="1591440419275" duration="10268000" />
+      <workItem from="1591512949331" duration="6556000" />
+      <workItem from="1591526509693" duration="1923000" />
+      <workItem from="1591580111684" duration="6967000" />
+      <workItem from="1591594785504" duration="16929000" />
+      <workItem from="1591787120851" duration="3367000" />
+      <workItem from="1591790630104" duration="7190000" />
+      <workItem from="1591839981299" duration="9570000" />
+      <workItem from="1591871095633" duration="9927000" />
+      <workItem from="1591960420427" duration="1507000" />
+      <workItem from="1591962982480" duration="609000" />
+      <workItem from="1592029504730" duration="16708000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1591103400482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1591103400482" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1592056462711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592056462711" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1592056462711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592056462711" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1592056462711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592056462711" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1592056462711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592056462711" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1592056462712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592056462712" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1592056462711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592056462711" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1592056462711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592056462711" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1592056462712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592056462712" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1592052644683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592052644683" />
+    <state x="58" y="0" key="new project wizard" timestamp="1591103388355">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="58" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591103388355" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591873891089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591873891089" />
+  </component>
+</project>
