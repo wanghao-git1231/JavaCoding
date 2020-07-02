@@ -1,7 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea247795-0dd3-4ec5-9e37-b28bf3ec9a88" name="Default Changelist" comment="" />
+    <list default="true" id="ea247795-0dd3-4ec5-9e37-b28bf3ec9a88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case102/LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case102/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case105/BuildTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case105/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case11/MaxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case114/Flatten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case114/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case148/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case148/SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case208/TestTrie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case208/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case215/FindKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case215/My_Quick_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case215/TestQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case22/GenerateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case236/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case236/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case238/ProductExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case287/FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case338/CountBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case347/TopKFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case39/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case406/ReconstructQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case46/Permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case48/Rotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case49/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case62/UniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case64/MinPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case647/CountSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case739/DailyTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case78/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case94/InorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case94/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding/src/Medium/Case96/NumTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case102/LevelOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case102/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case105/BuildTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case105/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case11/MaxArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case114/Flatten.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case114/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case148/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case148/SortList$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case148/SortList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case208/TestTrie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case208/Trie$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case208/Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case215/FindKthLargest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case215/My_Quick_Sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case215/TestQuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case22/GenerateParenthesis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case236/LowestCommonAncestor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case236/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case238/ProductExceptSelf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case287/FindDuplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case338/CountBits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case347/TopKFrequent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case39/CombinationSum$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case39/CombinationSum$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case39/CombinationSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case406/ReconstructQueue$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case406/ReconstructQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case46/Permute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case48/Rotate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case49/GroupAnagrams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case62/UniquePaths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case64/MinPathSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case647/CountSubstrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case739/DailyTemperatures.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case78/Subsets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case94/InorderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case94/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Coding/Medium/Case96/NumTrees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../牛客LeetCode/Coding/Coding.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coding/Easy/Case581/FindUnsortedSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/Easy/Case581/FindUnsortedSubarray.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +92,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1clVnf8cN5oOA8YG2TF19BLlblt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +104,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
+    <property name="last_opened_file_path" value="F:/JAVA/base-code" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,13 +129,13 @@
       <recent name="Easy.Case160" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindUnsortedSubarray">
-    <configuration name="FindUnsortedSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Case581.FindUnsortedSubarray" />
+  <component name="RunManager" selected="Application.TopKFrequent">
+    <configuration name="CountSubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Case647.CountSubstrings" />
       <module name="Coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.Case581.*" />
+          <option name="PATTERN" value="Medium.Case647.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HasCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Case141.HasCycle" />
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Case49.GroupAnagrams" />
       <module name="Coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.Case141.*" />
+          <option name="PATTERN" value="Medium.Case49.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Case234.IsPalindrome" />
+    <configuration name="MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Case11.MaxArea" />
       <module name="Coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.Case234.*" />
+          <option name="PATTERN" value="Medium.Case11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Case20.IsValid" />
+    <configuration name="TopKFrequent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Case347.TopKFrequent" />
       <module name="Coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.Case20.*" />
+          <option name="PATTERN" value="Medium.Case347.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Case198.Rob" />
+    <configuration name="UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Case62.UniquePaths" />
       <module name="Coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.Case198.*" />
+          <option name="PATTERN" value="Medium.Case62.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindUnsortedSubarray" />
-        <item itemvalue="Application.IsValid" />
-        <item itemvalue="Application.IsPalindrome" />
-        <item itemvalue="Application.Rob" />
-        <item itemvalue="Application.HasCycle" />
+        <item itemvalue="Application.TopKFrequent" />
+        <item itemvalue="Application.CountSubstrings" />
+        <item itemvalue="Application.UniquePaths" />
+        <item itemvalue="Application.GroupAnagrams" />
+        <item itemvalue="Application.MaxArea" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +233,23 @@
       <workItem from="1591960420427" duration="1507000" />
       <workItem from="1591962982480" duration="609000" />
       <workItem from="1592029504730" duration="16708000" />
+      <workItem from="1592445243802" duration="11342000" />
+      <workItem from="1592551098162" duration="7943000" />
+      <workItem from="1592564355593" duration="7289000" />
+      <workItem from="1592635714593" duration="35000" />
+      <workItem from="1592813225478" duration="14642000" />
+      <workItem from="1592899623408" duration="13480000" />
+      <workItem from="1592993486248" duration="7013000" />
+      <workItem from="1593000892921" duration="4160000" />
+      <workItem from="1593147775852" duration="15918000" />
+      <workItem from="1593260133987" duration="3672000" />
+      <workItem from="1593325021010" duration="9871000" />
+      <workItem from="1593342000918" duration="9273000" />
+      <workItem from="1593407911202" duration="4991000" />
+      <workItem from="1593429287977" duration="9027000" />
+      <workItem from="1593567460002" duration="13521000" />
+      <workItem from="1593600845045" duration="11254000" />
+      <workItem from="1593675176352" duration="9769000" />
     </task>
     <servers />
   </component>
@@ -160,38 +261,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1591103400482" />
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1592056462711">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1592635750677">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592056462711" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1592056462711">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592635750677" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1593690388891">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592056462711" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1592056462711">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593690388891" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1593690388890">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592056462711" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1592056462711">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593690388890" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1593690388890">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592056462711" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1592056462712">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593690388890" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1593690388891">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592056462712" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1592056462711">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593690388891" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1593005099386">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592056462711" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1592056462711">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593005099386" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1593005099386">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592056462711" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1592056462712">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593005099386" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1593005099386">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592056462712" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593005099386" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1593005099386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593005099386" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1592052644683">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -200,9 +305,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="58" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591103388355" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591873891089">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593586772283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591873891089" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593586772283" />
   </component>
 </project>
